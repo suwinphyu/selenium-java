@@ -2,4 +2,4 @@
 Tutorials for selenium web driver with java.
 
 
-Learning from https://testautomationu.applitools.com/
+Learning from https://testautomationu.applitools.com/me.html#suwinphyu
